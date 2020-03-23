@@ -1,0 +1,3 @@
+rootProject.name='APack'
+include ':app'
+include ':ajetpack'
