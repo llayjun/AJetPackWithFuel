@@ -7,7 +7,7 @@ import com.github.kittinunf.fuel.core.Request
 
 object FuelNetHelper {
 
-    const val BASE_URL = "http://httpbin.org"
+    const val BASE_URL = "http://timeline-merger-ms.juejin.im/v1"
 
     fun initFuel() {
         // 服务器base地址

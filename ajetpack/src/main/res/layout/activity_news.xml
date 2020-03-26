@@ -6,7 +6,7 @@
 
         <variable
             name="viewModels"
-            type="com.llayjun.ajetpack.test.NewActivity" />
+            type="com.llayjun.ajetpack.test.NewsViewModel" />
 
     </data>
 
